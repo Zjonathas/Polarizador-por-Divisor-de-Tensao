@@ -1,0 +1,1 @@
+Codigo criado com a intenção de resolver um circuito polarizador por divisor de tensão. 
